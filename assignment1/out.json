@@ -1,0 +1,42 @@
+{
+  "menuTitle": " Hello! Welcome to the Task Tracker! ",
+  "chosenOption": 7,
+  "tasks": [
+    {
+      "taskName": "get milk",
+      "taskNotes": "get 2% 2l",
+      "taskDate": {
+        "year": 2021,
+        "month": 4,
+        "dayOfMonth": 19,
+        "hourOfDay": 16,
+        "minute": 0,
+        "second": 0
+      },
+      "taskCompleted": true
+    },
+    {
+      "taskName": "email john",
+      "taskNotes": "congraduate john",
+      "taskDate": {
+        "year": 2021,
+        "month": 5,
+        "dayOfMonth": 30,
+        "hourOfDay": 14,
+        "minute": 0,
+        "second": 0
+      },
+      "taskCompleted": false
+    }
+  ],
+  "numOfTasks": 2,
+  "menuOptions": [
+    "List all tasks",
+    "Add a task",
+    "Remove a task",
+    "Mark a task as complete",
+    "List overdue incomplete tasks",
+    "List upcoming incomplete tasks",
+    "Exit"
+  ]
+}
